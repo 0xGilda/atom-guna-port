@@ -1,5 +1,6 @@
 # guna theme
+Port of Guna's syntax/bg colour from ST3 to Atom
 
-A short description of your theme.
-
-![A screenshot of your theme](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)
+![A screenshot of your theme](https://i.imgur.com/gNHdpGk.png)
+Left = Atom
+Right = ST3
